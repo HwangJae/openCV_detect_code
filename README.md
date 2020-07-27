@@ -1,2 +1,2 @@
-# openCV_face-detect
+# openCV_detect
 face_detect code
